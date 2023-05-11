@@ -1,1 +1,3 @@
 This is a new file to test git
+changes for the first commit to be made.
+
